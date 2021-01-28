@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-rest-api-/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/goit-react-hw-03-rest-api-/static/js/main.7d02f248.chunk.js",
+    "main.js.map": "/goit-react-hw-03-rest-api-/static/js/main.7d02f248.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-rest-api-/static/js/runtime-main.7b0411c9.js",
+    "runtime-main.js.map": "/goit-react-hw-03-rest-api-/static/js/runtime-main.7b0411c9.js.map",
+    "static/js/2.8cbe96bd.chunk.js": "/goit-react-hw-03-rest-api-/static/js/2.8cbe96bd.chunk.js",
+    "static/js/2.8cbe96bd.chunk.js.map": "/goit-react-hw-03-rest-api-/static/js/2.8cbe96bd.chunk.js.map",
+    "index.html": "/goit-react-hw-03-rest-api-/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/goit-react-hw-03-rest-api-/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8cbe96bd.chunk.js.LICENSE.txt": "/goit-react-hw-03-rest-api-/static/js/2.8cbe96bd.chunk.js.LICENSE.txt",
+    "static/media/error.7d86105a.jpg": "/goit-react-hw-03-rest-api-/static/media/error.7d86105a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0411c9.js",
+    "static/js/2.8cbe96bd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7d02f248.chunk.js"
+  ]
+}
